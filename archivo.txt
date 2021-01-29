@@ -1,2 +1,4 @@
 hola, esta es una prueba de recordatorio, para recordar
 todo lo anteriormente aprendio en platzi
+
+este es un nuevo cambio hecho por mi 
